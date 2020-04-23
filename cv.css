@@ -1,0 +1,29 @@
+.centered {
+  position:fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color:#0c7b93;
+  font-family: 'Sarina', cursive;
+  font-size:400%;
+}
+.pro{
+  position:absolute;
+  font-size:30%;
+  font-family:san serif;
+  padding-left: 90%
+  top:60%;
+  left:40%;
+}
+.n1{
+  color:white;
+  background-color: #0c7b93;
+  position:relative;
+}
+
+ .footer{
+   text-align: center;
+   margin-top: 5%;
+   margin-bottom: 5%;
+   font-size: 100%
+ }
